@@ -13,8 +13,8 @@ By now, you have read about basic Java syntax, watched some lecture videos on th
 7. From the "Console" tab, enter the following command: `rm .replit`
 8. Select the "ExamGrades.java" file. Search for the keyword "TODO", and write the specified code.
 9. At any time you can run the code from the user's perspective, or, from a developer's point of view, execute the unit tests that have been provided.
-  a. To run the code, click the "Run" button.
-  b. To execute the unit tests, enter the following command in the "Console" tab: bash test.sh
+    a. To run the code, click the "Run" button.
+    b. To execute the unit tests, enter the following command in the "Console" tab: bash test.sh
 10. Once you have completed the code correctly, all 8 unit tests should pass, and running the code should produce results that make sense.
 11. When you are finished, submit your ExamGrades.java file via the HOA 1 Canvas assignment.
 
